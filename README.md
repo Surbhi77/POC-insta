@@ -69,8 +69,7 @@ META_APP_SECRET=
 The POC is already wired to these login configuration IDs from your Meta app:
 
 ```text
-FACEBOOK_CONFIG_ID_PUBLISHING=1304153965041291
-INSTAGRAM_WITH_FACEBOOK_CONFIG_ID=965975182701009
+
 ```
 
 The messaging, leads, and engagement configuration IDs are intentionally not used in this POC.
