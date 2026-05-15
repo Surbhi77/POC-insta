@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Publisher POC
 
 Basic React + Node.js proof of concept for connecting Facebook Pages and Instagram professional accounts, then publishing posts through Meta APIs.
@@ -104,3 +105,4 @@ Instagram direct integration uses `graph.instagram.com`. Instagram via Facebook 
 - No scheduler is implemented.
 - No upload pipeline is implemented.
 - Meta App Review may be required for accounts outside your own app roles/test users.
+
