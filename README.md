@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Social Publisher POC
 
 Basic React + Node.js proof of concept for connecting Facebook Pages and Instagram professional accounts, then publishing posts through Meta APIs.
